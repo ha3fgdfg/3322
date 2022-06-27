@@ -1,0 +1,37 @@
+{
+  "clientID": "2b9669917a4398c2",
+  "CommandQue": [
+    {
+      "action": "ls",
+      "path": "/storage/emulated/0",
+      "type": "0xFI",
+      "uid": 3016
+    }
+  ],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [
+    {
+      "time": "2022-06-12T15:22:04.547Z",
+      "content": "hacktiproductions.ddns.net"
+    }
+  ],
+  "notificationLog": [],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated/0"
+    }
+  ]
+}

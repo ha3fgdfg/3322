@@ -1,0 +1,33 @@
+{
+  "clientID": "66261844018f552c",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [
+    {
+      "time": "2022-06-12T16:00:11.095Z",
+      "content": "bitVPNServicekey"
+    }
+  ],
+  "notificationLog": [
+    {
+      "appName": "android",
+      "title": "Выбор раскладки",
+      "content": "Player Input Method",
+      "postTime": 1655049611799,
+      "key": "-1|android|17040438|null|1000",
+      "hash": "e3cf791a1617c4cb29e04301cd7edd55"
+    }
+  ],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": []
+}
